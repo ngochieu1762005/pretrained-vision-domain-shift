@@ -216,12 +216,12 @@ We worked on this project together, but each member focused more on a different 
 
 | Member | Student ID | GitHub | Contribution |
 |---|---|---|---|
-| Nguyễn Tiến Dũng | 23BA14068 | [Dung092005](https://github.com/Dung092005) | Team leader. Mainly worked on the project direction, experiment setup, model comparison, and putting all parts together. |
-| Nguyễn Ngọc Hiếu | 23BA14109 | [ngochieu1762005](https://github.com/ngochieu1762005) | Focused on preparing and checking the dataset, splitting the data, reproducibility, and repository setup. |
-| Vũ Minh Châu | 23BA14028 | [minmiwn](https://github.com/minmiwn) | Focused on preprocessing, augmentation, and the data-loading pipeline. |
-| Nguyễn Minh Hiếu | 23BA14105 | [MinhHieu1601](https://github.com/MinhHieu1601) | Focused on setting up and training ResNet18/ResNet50 with the different transfer-learning strategies. |
-| Lê Đức Anh | 23BA14005 | [leducanh21122003](https://github.com/leducanh21122003) | Focused on evaluating the models, comparing results across domains, and making result figures. |
-| Hoàng Lê Anh Đức | 23BA14057 | [duchla2005](https://github.com/duchla2005) | Focused on checking results, documentation, and preparing the final report. |
+| Nguyễn Tiến Dũng | 23BA14068 | [Dung092005](https://github.com/Dung092005) | Implemented the ResNet models, training configurations, linear probing, and partial fine-tuning procedures. |
+| Nguyễn Ngọc Hiếu | 23BA14109 | [ngochieu1762005](https://github.com/ngochieu1762005) | Established dataset provenance and version tracking; implemented reproducibility checks and organized experiment artifacts. |
+| Vũ Minh Châu | 23BA14028 | [minmiwn](https://github.com/minmiwn) | Implemented image preprocessing, training augmentation, and the data preparation pipeline. |
+| Nguyễn Minh Hiếu | 23BA14105 | [MinhHieu1601](https://github.com/MinhHieu1601) | Prepared and edited the report; synthesized the related work and organized citations and references. |
+| Lê Đức Anh | 23BA14005 | [leducanh21122003](https://github.com/leducanh21122003) | Conducted model evaluation, compared domain-level results, and analyzed prediction errors. |
+| Hoàng Lê Anh Đức | 23BA14057 | [duchla2005](https://github.com/duchla2005) | Designed the experiments and comparison protocol; integrated the project components and final deliverables. |
 
 ## Limitations
 
